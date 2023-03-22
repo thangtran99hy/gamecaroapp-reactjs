@@ -1,0 +1,41 @@
+export const PERMISSION_ADMIN = 'ADMIN';
+export const PERMISSION_USER = 'USER';
+
+export const GAME_TURN_PLAYER = 'GAME_TURN_PLAYER';
+export const GAME_TURN_AI = 'GAME_TURN_AI';
+export const GAME_TURN_FINISH = 'GAME_TURN_FINISH';
+
+export const CHESSMAN_AI_ID = 1;
+export const CHESSMAN_ANONYMOUS_ID = 0;
+export const CHESSMAN_NONE = 0;
+
+export const CHESSMAN_YOURSELF_A = 2;
+export const CHESSMAN_YOURSELF_B = 3;
+
+export const CHESSMAN_PLAYER = 10;
+
+export const GROUP_BOARD = 'GROUP_BOARD';
+export const PRIVATE_BOARD = 'PRIVATE_BOARD';
+
+export const GROUP_CHAT = 'GROUP_CHAT';
+export const PRIVATE_CHAT = 'PRIVATE_CHAT';
+
+export const MESSAGE_TYPE_CREATE_CHAT_BOX = 'MESSAGE_TYPE_CREATE_CHAT_BOX';
+export const MESSAGE_TYPE_TEXT = 'MESSAGE_TYPE_TEXT';
+export const MESSAGE_TYPE_IMAGE = 'MESSAGE_TYPE_IMAGE';
+export const MESSAGE_TYPE_STICKER = 'MESSAGE_TYPE_STICKER';
+export const MESSAGE_TYPE_CREATE_GROUP_BOARD = 'MESSAGE_TYPE_CREATE_GROUP_BOARD';
+export const MESSAGE_TYPE_CREATE_PRIVATE_BOARD = 'MESSAGE_TYPE_CREATE_PRIVATE_BOARD';
+
+export const CHESS_BOARD_TYPE_TRAINING_WITH_AI = 'CHESS_BOARD_TYPE_TRAINING_WITH_AI';
+export const CHESS_BOARD_TYPE_TRAINING_WITH_YOURSELF = 'CHESS_BOARD_TYPE_TRAINING_WITH_YOURSELF';
+export const CHESS_BOARD_TYPE_ONLINE = 'CHESS_BOARD_TYPE_ONLINE';
+
+export const LANGUAGE_EN = 'en';
+export const LANGUAGE_VI = 'vi';
+
+export const XS = 'xs';
+export const SM = 'sm';
+export const MD = 'md';
+export const LG = 'lg';
+export const XL = 'xl';

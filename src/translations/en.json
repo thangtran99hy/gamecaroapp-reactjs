@@ -1,0 +1,162 @@
+{
+    "alert": {
+        "error": "Error",
+        "success": "Success"
+    },
+    "translations": {
+        "en": "English",
+        "vi": "Vietnamese",
+        "lang": "vi"
+    },
+    "management_background": {
+        "upload_background": {
+            "change_avatar": ""
+        }
+    },
+    "label": {
+        "goToHome": "Go To Home"
+    },
+    "error": {
+        "404": {
+            "title": "Page Not Found!"
+        }
+    },
+    "welcome": {
+        "goToTrainingWithAI": "Training With AI",
+        "goToTrainingWithYourself": "Training With Yourself",
+        "goToChatPage": "Go To Chat Page",
+        "goToListChessBoard": "Go To Caro Arena",
+        "createChessBoard": "Create Chess Board"
+    },
+    "header": {
+        "menu_select": {
+            "background": "Background",
+            "chessman": "Chessman"
+        }
+    },
+    "profile": {
+        "displayName": "Display name",
+        "btnSaveProfile": "Save"
+    },
+    "background": {
+        "menu": {
+            "list_background": "List Background",
+            "upload_background": "Upload Background"
+        },
+        "list_background": {
+            "text_not_bg": "Not background",
+            "goUploadBG": "Go To Upload Background"
+        },
+        "upload_background": {
+            "btn_upload": "Upload Background"
+        }
+    },
+    "chessman": {
+        "menu": {
+            "list_chessman": "List Chessman",
+            "upload_chessman": "Upload Chessman"
+        },
+        "list_chessman": {
+            "text_not_bg": "Not chessman",
+            "goUploadChessman": "Go To Upload Chessman"
+        },
+        "upload_chessman": {
+            "nameChessman": "Name",
+            "btn_upload": "Upload Chessman"
+        }
+    },
+    "chat": {
+        "user": "User",
+        "group": "Group",
+        "chat_page": {
+            "btnCreatePrivate": "Create Chat",
+            "btnCreateGroup": "Create Group Chat",
+            "selectUser": "Select user",
+            "create_group": {
+                "nameGroupChat": "Name group chat"
+            }
+        },
+        "list_chat": {
+
+        },
+        "chat_board": {
+            "not_data_chat_board": "Hello {{name}} !",
+            "chat_content": {
+                "createChat": "{{user}} create chat box !",
+                "chessBoard": "Go To Chessboard"
+            },
+            "input_text": "Type your message...",
+            "create_chess_board": {
+                "errors": {
+                    "selectUser": "You must select 2 users !"
+                }
+            }
+        },
+        "listSticker": {
+            "searchSticker": "Search sticker"
+        }
+    },
+    "trainingWithYourself": {
+        "header": "Training With Yourself",
+        "setupBoard": {
+            "selectChessmanA": {
+                "title": "Select Chessman A"
+            },
+            "selectChessmanB": {
+                "title": "Select Chessman B"
+            },
+            "btnSubmit": "Setup Board",
+            "noticeWin": {
+                "chessmanA": "Chessman A Win",
+                "chessmanB": "Chessman B Win",
+                "newChessBoard": "New Chess Board"
+            }
+        },
+        "dialog": {
+            "content_continue": "Are you continue ?",
+            "no": "No",
+            "yes": "Yes"
+        }
+    },
+    "trainingWithAI": {
+        "header": "Training With AI",
+        "setupBoard": {
+            "selectChessmanA": {
+                "title": "Select Chessman For AI"
+            },
+            "selectChessmanB": {
+                "title": "Select Chessman For You"
+            },
+            "btnSubmit": "Setup Board",
+            "noticeWin": {
+                "chessmanA": "AI Win",
+                "chessmanB": "You Win",
+                "newChessBoard": "New Chess Board"
+            }
+        },
+        "dialog": {
+            "content_continue": "Are you continue ?",
+            "no": "No",
+            "yes": "Yes"
+        }
+    },
+    "chessBoard": {
+        "text": {
+            "waiting_other_join": "Waiting Other User Join",
+            "waiting_setup": "Waiting Setup",
+            "joinToChessBoard": "Join To ChessBoard",
+            "waiting_other_setup": "Waiting Other User Chessman"
+        },
+        "btn": {
+            "submitSetup": "Submit Setup",
+            "goToListChessBoard": "Go To List Chess Board"
+        },
+        "chessBoardProcess": {
+            "chessmanTitle": {
+                "chessmanA": "Chessman A",
+                "chessmanB": "Chessman B"
+            },
+            "you": "You"
+        }
+    }
+}
